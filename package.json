@@ -1,0 +1,29 @@
+{
+  "name": "catalogist",
+  "description": "Highly customizable listing files in given path, both synchronously and asynchronously",
+  "version": "0.0.16",
+  "homepage": "http://github.com/proudbird/catalogist",
+  "author": "Max Orlov <proudbird.mail@mail.com>",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/proudbird/catalogist.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "main": "catalogist",
+  "engines": {
+    "node": ">=7.6.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "readdir",
+    "directory",
+    "filesystem", 
+    "file explorer",
+    "file manager",
+    "filelist",
+    "recursive"
+  ]
+}
