@@ -1,7 +1,7 @@
 {
   "name": "catalogist",
   "description": "Highly customizable listing files in given path, both synchronously and asynchronously",
-  "version": "0.0.16",
+  "version": "1.0.1",
   "homepage": "http://github.com/proudbird/catalogist",
   "author": "Max Orlov <proudbird.mail@mail.com>",
   "contributors": [],
